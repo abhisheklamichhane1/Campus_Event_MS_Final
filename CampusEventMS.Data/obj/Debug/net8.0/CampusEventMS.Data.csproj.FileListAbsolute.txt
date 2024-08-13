@@ -1,0 +1,12 @@
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\bin\Debug\net8.0\CampusEventMS.Data.deps.json
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\bin\Debug\net8.0\CampusEventMS.Data.dll
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\bin\Debug\net8.0\CampusEventMS.Data.pdb
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\obj\Debug\net8.0\CampusEventMS.Data.csproj.AssemblyReference.cache
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\obj\Debug\net8.0\CampusEventMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\obj\Debug\net8.0\CampusEventMS.Data.AssemblyInfoInputs.cache
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\obj\Debug\net8.0\CampusEventMS.Data.AssemblyInfo.cs
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\obj\Debug\net8.0\CampusEventMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\obj\Debug\net8.0\CampusEventMS.Data.dll
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\obj\Debug\net8.0\refint\CampusEventMS.Data.dll
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\obj\Debug\net8.0\CampusEventMS.Data.pdb
+C:\Users\lamic\OneDrive\Documents\GitHub\Campus_Event_Management_Sys_Final\CampusEventMS.Data\obj\Debug\net8.0\ref\CampusEventMS.Data.dll
